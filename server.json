@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ioos-erddap",
+  "title": "Ioos Erddap",
+  "description": "US IOOS — regional ocean observing data via ERDDAP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ioos-erddap",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ioos-erddap",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ioos-erddap/mcp"
+    }
+  ]
+}
