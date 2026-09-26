@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ioos-erddap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "US IOOS — regional ocean observing data via ERDDAP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-41f644663584e8384b3455ef80ea09c5fb1a152571ad0f4584819d349e9be871",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-a46757336d343364620b83dccf70f9c20efd6a94c223b48013b005b8d2abbf9d",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
