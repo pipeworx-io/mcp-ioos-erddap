@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ioos-erddap",
   "title": "Ioos Erddap",
   "description": "US IOOS — regional ocean observing data via ERDDAP.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/ioos-erddap",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ioos-erddap",
